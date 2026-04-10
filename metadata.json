@@ -1,0 +1,5 @@
+{
+  "name": "NoteSummary AI",
+  "description": "An AI-powered clinical decision support tool that transforms fragmented EHRs into structured, visual, and interactive patient summaries.",
+  "requestFramePermissions": []
+}
